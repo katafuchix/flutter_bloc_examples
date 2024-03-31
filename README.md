@@ -5,5 +5,5 @@
 &nbsp;&nbsp;
 <img width="300" alt="flutter_github_search_example" src="https://github.com/katafuchix/flutter_bloc_examples/assets/6063541/f760ef25-fdc8-44ef-9d6d-c5b2f355b9f4">
 &nbsp;&nbsp;
-<img width="300" alt="flutter_cocktail_search_example" src="https://github.com/katafuchix/flutter_bloc_examples/assets/6063541/6ea9f3be-5c27-438b-9038-eb693f240987">
+<img width="300" alt="flutter_cocktail_search_example" src="https://github.com/katafuchix/flutter_bloc_examples/assets/6063541/db6d7711-6472-4e3c-90b0-d2ee1bf77eaa">
 </div>
