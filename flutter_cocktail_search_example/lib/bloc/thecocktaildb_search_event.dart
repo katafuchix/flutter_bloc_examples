@@ -1,6 +1,7 @@
 import 'package:equatable/equatable.dart';
 
-sealed class ThecocktaildbSearchEvent extends Equatable {
+// abstractであるため、このクラス自体をインスタンス化することはできません。
+abstract class ThecocktaildbSearchEvent extends Equatable {
   const ThecocktaildbSearchEvent();
 }
 
