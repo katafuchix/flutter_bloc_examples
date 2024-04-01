@@ -25,7 +25,8 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Github Search',
       home: Scaffold(
-        appBar: AppBar(title: const Text('The Cocktail DB Search')),
+        appBar: AppBar(title: const Text('The Cocktail DB Search'),
+                        backgroundColor: Theme.of(context).colorScheme.inversePrimary),
         body: BlocProvider(
           create: (_) => ThecocktaildbSearchBloc(thecocktaildbRepository: thecocktaildbRepository),
           child: const SearchForm(),
